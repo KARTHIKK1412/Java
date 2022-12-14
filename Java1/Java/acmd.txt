@@ -1,0 +1,12 @@
+C:\Users\91801>c:
+
+C:\Users\91801>cd\
+
+C:\>cd a
+
+C:\a>cd java*
+
+C:\a\java program>javac demo.java
+
+C:\a\java program>java demo
+Welcome to java programming-batch8
